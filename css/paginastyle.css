@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tittle{
+    color: rgb(11, 190, 20);
+    font-weight: 600;
+}
+.tittle:hover{
+    color: rgb(11, 190, 20);
+}
+.btnSend{
+    background-color: rgb(11, 190, 20);
+    border: none;
+}
+.btnSend:hover{
+    background-color: rgb(11, 190, 20);
+    color: white;
+}
+.tableTab{
+    border: solid 1px #000;
+}
+.actionsCont{
+    width: fit-content;
+    margin: 2rem auto;
+}
+.tableTab td{
+    font-size: 0.8rem;
+}
+.contDatos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
